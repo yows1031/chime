@@ -1,0 +1,30 @@
+#app {
+  text-align: center; }
+
+p {
+  font-size: 32pt; }
+
+.inputTitle {
+  font-size: 14pt; }
+
+#inputText {
+  padding: 15px;
+  font-size: 2em;
+  font-family: Arial, sans-serif;
+  color: #aaa;
+  border: solid 5px skyblue;
+  margin: 0 0 20px;
+  width: 250px;
+  height: 150px;
+  margin-bottom: 100px; }
+
+#button {
+  width: 180px;
+  height: 100px;
+  background-color: red;
+  border-radius: 10%; }
+
+#buttonText {
+  font-size: 18pt; }
+
+/*# sourceMappingURL=main.css.map */
